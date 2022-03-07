@@ -1,5 +1,0 @@
-com\demo\test\odersdemo\OdersdemoApplication.class
-com\demo\test\odersdemo\OrdersController.class
-com\demo\test\odersdemo\Order.class
-com\demo\test\odersdemo\DynamoDbConfig.class
-com\demo\test\odersdemo\OrdersRepository.class
