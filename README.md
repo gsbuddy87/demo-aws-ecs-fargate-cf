@@ -1,1 +1,0 @@
-# demo-aws-ecs-fargate-cf
