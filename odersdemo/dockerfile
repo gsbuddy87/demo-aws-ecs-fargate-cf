@@ -1,0 +1,4 @@
+FROM adoptopenjdk/openjdk11:alpine-jre
+ADD target/odersdemo-0.0.1-SNAPSHOT.jar ordersdemo.jar
+ENTRYPOINT ["java","-jar","/ordersdemo.jar"]
+EXPOSE 8080
